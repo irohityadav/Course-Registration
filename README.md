@@ -35,7 +35,7 @@ CourseRegistration/
 
 ## Documentation Index
 
-* [**Setup & Run Instructions**](docs/SETUP.md)**:** Detailed prerequisites, build commands, and test execution filters.
-* [**Design Specification**](docs/DESIGN_SPECIFICATION.md)**:** Core domain service boundary, data structures, invariants, and concurrency model.
-* [**AI Prompt and Use Record**](docs/AI_PROMPT_RECORD.md)**:** Complete log of AI interactions, prompts used, senior architectural rationales, and verification methods.
-* [**Limitations & Follow-up Risks**](docs/LIMITATIONS.md)**:** Production considerations regarding in-memory volatility, process-bound locking, and algorithmic scaling.
+* [**Setup & Run Instructions**](docs/setup_and_run_instructions.md)**:** Detailed prerequisites, build commands, and test execution filters.
+* [**Design Specification**](docs/design_specification.md)**:** Core domain service boundary, data structures, invariants, and concurrency model.
+* [**AI Prompt and Use Record**](docs/ai_prompt_and_use_record.md)**:** Complete log of AI interactions, prompts used, senior architectural rationales, and verification methods.
+* [**Limitations & Follow-up Risks**](docs/limitations_and_follow_up_risks.md)**:** Production considerations regarding in-memory volatility, process-bound locking, and algorithmic scaling.
