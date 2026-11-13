@@ -1,0 +1,22 @@
+C:\Users\irohi\OneDrive\Desktop\Schwab\AI Assessment\CourseRegistration.Core\bin\Debug\net9.0\CourseRegistration.Core.deps.json
+C:\Users\irohi\OneDrive\Desktop\Schwab\AI Assessment\CourseRegistration.Core\bin\Debug\net9.0\CourseRegistration.Core.dll
+C:\Users\irohi\OneDrive\Desktop\Schwab\AI Assessment\CourseRegistration.Core\bin\Debug\net9.0\CourseRegistration.Core.pdb
+C:\Users\irohi\OneDrive\Desktop\Schwab\AI Assessment\CourseRegistration.Core\obj\Debug\net9.0\CourseRegistration.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irohi\OneDrive\Desktop\Schwab\AI Assessment\CourseRegistration.Core\obj\Debug\net9.0\CourseRegistration.Core.AssemblyInfoInputs.cache
+C:\Users\irohi\OneDrive\Desktop\Schwab\AI Assessment\CourseRegistration.Core\obj\Debug\net9.0\CourseRegistration.Core.AssemblyInfo.cs
+C:\Users\irohi\OneDrive\Desktop\Schwab\AI Assessment\CourseRegistration.Core\obj\Debug\net9.0\CourseRegistration.Core.csproj.CoreCompileInputs.cache
+C:\Users\irohi\OneDrive\Desktop\Schwab\AI Assessment\CourseRegistration.Core\obj\Debug\net9.0\CourseRegistration.Core.dll
+C:\Users\irohi\OneDrive\Desktop\Schwab\AI Assessment\CourseRegistration.Core\obj\Debug\net9.0\refint\CourseRegistration.Core.dll
+C:\Users\irohi\OneDrive\Desktop\Schwab\AI Assessment\CourseRegistration.Core\obj\Debug\net9.0\CourseRegistration.Core.pdb
+C:\Users\irohi\OneDrive\Desktop\Schwab\AI Assessment\CourseRegistration.Core\obj\Debug\net9.0\ref\CourseRegistration.Core.dll
+C:\Users\irohi\OneDrive\Desktop\Schwab\CourseRegistration\CourseRegistration.Core\bin\Debug\net9.0\CourseRegistration.Core.deps.json
+C:\Users\irohi\OneDrive\Desktop\Schwab\CourseRegistration\CourseRegistration.Core\bin\Debug\net9.0\CourseRegistration.Core.dll
+C:\Users\irohi\OneDrive\Desktop\Schwab\CourseRegistration\CourseRegistration.Core\bin\Debug\net9.0\CourseRegistration.Core.pdb
+C:\Users\irohi\OneDrive\Desktop\Schwab\CourseRegistration\CourseRegistration.Core\obj\Debug\net9.0\CourseRegistration.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irohi\OneDrive\Desktop\Schwab\CourseRegistration\CourseRegistration.Core\obj\Debug\net9.0\CourseRegistration.Core.AssemblyInfoInputs.cache
+C:\Users\irohi\OneDrive\Desktop\Schwab\CourseRegistration\CourseRegistration.Core\obj\Debug\net9.0\CourseRegistration.Core.AssemblyInfo.cs
+C:\Users\irohi\OneDrive\Desktop\Schwab\CourseRegistration\CourseRegistration.Core\obj\Debug\net9.0\CourseRegistration.Core.csproj.CoreCompileInputs.cache
+C:\Users\irohi\OneDrive\Desktop\Schwab\CourseRegistration\CourseRegistration.Core\obj\Debug\net9.0\CourseRegistration.Core.dll
+C:\Users\irohi\OneDrive\Desktop\Schwab\CourseRegistration\CourseRegistration.Core\obj\Debug\net9.0\refint\CourseRegistration.Core.dll
+C:\Users\irohi\OneDrive\Desktop\Schwab\CourseRegistration\CourseRegistration.Core\obj\Debug\net9.0\CourseRegistration.Core.pdb
+C:\Users\irohi\OneDrive\Desktop\Schwab\CourseRegistration\CourseRegistration.Core\obj\Debug\net9.0\ref\CourseRegistration.Core.dll
